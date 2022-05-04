@@ -30,10 +30,8 @@
 <h2 align="left">📊 My Github Stats</h2>
 
 <br/>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanikupiec&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="shanikupiec" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=shanikupiec&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="shanikupiec" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanikupiec&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="shanikupiec" />
-</p>
 <br/>
 <a href="#"><img alt="Shani Kupiec's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shanikupiec&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
