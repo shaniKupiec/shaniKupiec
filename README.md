@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://shanikupiec.github.io/shani-gallery](https://shanikupiec.github.io/shani-gallery)
-
 - 📫 How to reach me **shani.kupiec@gmail.com**
 
 - ⚡ Fun fact **I am passionate about hiking**
