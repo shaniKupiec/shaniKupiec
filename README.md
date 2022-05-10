@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **shani.kupiec@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://shanikupiec.github.io/shani-gallery](https://shanikupiec.github.io/shani-gallery)
+
 - ⚡ Fun fact **I am passionate about hiking**
 
 <h2 align="left">🚀 Languages and Tools:</h2>
