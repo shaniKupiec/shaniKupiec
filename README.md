@@ -2,9 +2,11 @@
 <img width="40%" height="auto" src="https://res.cloudinary.com/trellox/image/upload/v1651655488/github%20-%20readme/istockphoto-1244413053-612x612_y7smbx.jpg" height="120px"/> </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shani</h1>
-<h3 align="center">I'm looking for my next challenge in Frontend / Full stack development positions</h3>
+<h3 align="center">Looking for an opportunity to grow and develop as a Full-Stack / Frontend Web Developer</h3>
 
 <h2 align="left">🙋‍♂️ About Me</h2>
+
+- 💡 My last project [Trelloxx](https://trelloxx.herokuapp.com/#/) a Trello clone
 
 - 🔭 I’m currently working on [Cryptonites](https://cryptonites.herokuapp.com)
 
@@ -12,7 +14,7 @@
 
 - 📫 How to reach me **shani.kupiec@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://shanikupiec.github.io/shani-gallery](https://shanikupiec.github.io/shani-gallery)
+- 👨‍💻 All of my projects are available [here](https://shanikupiec.github.io/shani-gallery)
 
 - ⚡ Fun fact **I am passionate about hiking**
 
