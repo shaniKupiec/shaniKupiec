@@ -1,7 +1,7 @@
 <p align="center">
 <img width="40%" height="auto" src="https://res.cloudinary.com/trellox/image/upload/v1651655488/github%20-%20readme/istockphoto-1244413053-612x612_y7smbx.jpg" height="120px"/> </p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shani</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Shani</h1>
 <h3 align="center">Looking for an opportunity to grow and develop as a Full-Stack / Frontend Web Developer</h3>
 
 <h2 align="left">🙋‍♂️ About Me</h2>
