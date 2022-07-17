@@ -8,7 +8,7 @@
 
 - 💡 My last project [Trelloxx](https://trelloxx.herokuapp.com/#/) a Trello clone
 
-- 🔭 I’m currently working on [Cryptonites](https://cryptonites.herokuapp.com)
+- 🔭 I’m currently working on [Cryptonites](https://github.com/shaniKupiec/Cyptonites-Frontend)
 
 - 🌱 I’m currently learning **Angular**
 
