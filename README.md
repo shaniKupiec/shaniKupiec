@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **AirBnb**
+- 🔭 I’m currently working on **Build an AirBnb Experiences clone**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** with [scrimba](https://scrimba.com/)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shanikupiec.github.io/shani-gallery)
 
@@ -18,7 +18,7 @@
 
 - 💬 Ask me about anything, I am happy to help 😄
 
-- 🧗 I try to: Go beyond and push the bounds
+- 🧗 I try to Go beyond and push the bounds
 
 - ⚡ Fun fact **I am passionate about hiking**
 
