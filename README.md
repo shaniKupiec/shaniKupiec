@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Shani</h1>
 <h3 align="center">Looking for an opportunity to grow and develop as a Full-Stack / Frontend Web Developer</h3>
 
-<h2 align="left">🙋‍♂️ About Me</h2>
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **AirBnb**
 
