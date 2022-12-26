@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Build an AirBnb Experiences clone**
+- 🔭 I’m currently working on **Bitcoin App in React**
 
 - 🌱 I’m currently learning **React** with [scrimba](https://scrimba.com/)
 
