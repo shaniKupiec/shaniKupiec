@@ -1,14 +1,14 @@
 <p align="center">
-<img width="40%" height="auto" src="https://res.cloudinary.com/trellox/image/upload/v1651655488/github%20-%20readme/istockphoto-1244413053-612x612_y7smbx.jpg" height="120px"/> </p>
+<img width="40%" height="auto" src="https://res.cloudinary.com/trellox/image/upload/v1651655488/github%20-%20readme/istockphoto-1244413053-612x612_y7smbx.jpg" height="100px"/> </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Shani</h1>
-<h3 align="center">Looking for an opportunity to grow and develop as a Full-Stack / Frontend Web Developer</h3>
+<h3 align="center">Full-Stack / Frontend Web Developer</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Bitcoin App in React**
+- 🔭 I’m currently Looking for a full stack / frontend web developer position 
 
-- 🌱 I’m currently learning **React** with [scrimba](https://scrimba.com/)
+- 🌱 I’m currently learning **React** with [scrimba](https://scrimba.com/) [Link to my latest project in React](https://shanikupiec.github.io/Cryptbits-React/)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shanikupiec.github.io/shani-gallery)
 
@@ -17,8 +17,6 @@
 - 📄 Know about my experiences [Shani Kupiec CV](https://drive.google.com/file/d/1jkxVSOD-UCrZqcPvVCUZTHvr8UhewW9k/view?usp=sharing)
 
 - 💬 Ask me about anything, I am happy to help 😄
-
-- 🧗 I try to Go beyond and push the bounds
 
 - ⚡ Fun fact **I am passionate about hiking**
 
