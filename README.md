@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Looking for a full stack / frontend web developer position 
 
-- 🌱 I’m currently learning **React** with [scrimba](https://scrimba.com/) [Link to my latest project in React](https://shanikupiec.github.io/Cryptbits-React/)
+- 🌱 I’m currently learning **React** My latest project in React, [Cryptbits](https://shanikupiec.github.io/Cryptbits-React/)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shanikupiec.github.io/shani-gallery)
 
