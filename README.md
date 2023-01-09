@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React** My latest project in React, [Cryptbits](https://shanikupiec.github.io/Cryptbits-React/)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shanikupiec.github.io/shani-gallery)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://shanikupiec.github.io/Portfolio/)
 
 - 📫 How to reach me **shani.kupiec@gmail.com**
 
