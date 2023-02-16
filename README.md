@@ -6,20 +6,21 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently Looking for a full stack / frontend web developer position 
+- 🔭 Seeking a full-stack / front-end web developer job opportunity 
 
-- 🌱 I’m currently learning **React** My latest project in React, [Cryptbits](https://shanikupiec.github.io/Cryptbits-React/)
+- 📚 First-year student majoring in **Computer Science** in HIT
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shanikupiec.github.io/Portfolio/)
+- 👩‍💻 Full stack developer with one year of experience
+
+- 📱 My most recent project in React: [Cryptbits](https://shanikupiec.github.io/Cryptbits-React/)
+
+- 📝 All of my projects are available at [My Portfolio](https://shanikupiec.github.io/Portfolio/)
 
 - 📫 How to reach me **shani.kupiec@gmail.com**
 
 - 📄 Know about my experiences [Shani Kupiec CV](https://drive.google.com/file/d/1jkxVSOD-UCrZqcPvVCUZTHvr8UhewW9k/view?usp=sharing)
 
-- 💬 Ask me about anything, I am happy to help 😄
-
-- ⚡ Fun fact **I am passionate about hiking**
-
+- ⚡ I am passionate about hiking 
 
 ## Tech Knowledge
  
