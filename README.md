@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Seeking a full-stack / front-end web developer job opportunity 
-
 - 📚 First-year student majoring in **Computer Science** in HIT
 
 - 👩‍💻 Full stack developer with one year of experience
@@ -17,8 +15,6 @@
 - 📝 All of my projects are available at [My Portfolio](https://shanikupiec.github.io/Portfolio/)
 
 - 📫 How to reach me **shani.kupiec@gmail.com**
-
-- 📄 Know about my experiences [Shani Kupiec CV](https://drive.google.com/file/d/1jkxVSOD-UCrZqcPvVCUZTHvr8UhewW9k/view?usp=sharing)
 
 - ⚡ I am passionate about hiking 
 
@@ -55,5 +51,4 @@
 
 ## Connect with me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shani.kupiec@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/shani.kupiec)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-kupiec-28a064228/)
