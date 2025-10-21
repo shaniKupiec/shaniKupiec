@@ -1,54 +1,70 @@
 <p align="center">
-<img width="40%" height="auto" src="https://res.cloudinary.com/trellox/image/upload/v1651655488/github%20-%20readme/istockphoto-1244413053-612x612_y7smbx.jpg" height="100px"/> </p>
+  <img width="40%" src="https://res.cloudinary.com/trellox/image/upload/v1651655488/github%20-%20readme/istockphoto-1244413053-612x612_y7smbx.jpg" />
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Shani</h1>
 <h3 align="center">Full-Stack / Frontend Web Developer</h3>
 
-## 🙋‍♂️ About Me
+---
 
-- 📚 First-year student majoring in **Computer Science** in HIT
+## 💫 About Me
 
-- 👩‍💻 Full stack developer with one year of experience
+- I’m **Shani Kupiec**, a **Full Stack Developer** with **3 years of experience** crafting interactive, scalable, and user-focused web apps using **React** and **Node.js**.  
+- I recently earned my **B.Sc. in Computer Science**, and I’m passionate about building modern digital experiences that blend design, logic, and performance.  
+- I love learning new technologies, solving meaningful problems, and bringing creative ideas to life.  
+- When I’m not coding, you’ll probably find me hiking somewhere new.
 
-- 📱 My most recent project in React: [Cryptbits](https://shanikupiec.github.io/Cryptbits-React/)
+---
 
-- 📝 All of my projects are available at [My Portfolio](https://shanikupiec.github.io/Portfolio/)
+## 🚀 Featured Projects
 
-- 📫 How to reach me **shani.kupiec@gmail.com**
+### 🎯 [LiveSentiment](https://github.com/shaniKupiec/LiveSentiment)  
+Real-time interactive presentation platform with **AI-powered audience analysis** and live sentiment tracking.  
+**Tech:** React 19, TypeScript, ASP.NET Core 8.0, SignalR, PostgreSQL, MUI, Chart.js, Docker  
+🎥 [Demo Video](https://www.youtube.com/watch?v=PnK20U6BIs4) · 🌐 [Try it live](https://livesentiment-frontend.onrender.com/)
 
-- ⚡ I am passionate about hiking 
+---
 
-## Tech Knowledge
- 
-### Languages
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- 
-### Frontend Development
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+### 🍹 [Drink Recipe Generator](https://github.com/shaniKupiec/its_five_pm_somewhere)  
+Fun, responsive app that generates creative drink recipes using **AI** — cocktails, mocktails, and smoothies included.  
+**Tech:** React, TypeScript, FastAPI, Groq LLM, MUI, Styled Components, Docker  
+🎥 [Demo Video](https://www.youtube.com/watch?v=lMML5YUiLf4)
 
-### Backend Development
-<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+---
 
-<!-- ![Shani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaniKupiec&show_icons=true&theme=tokyonight) -->
+### 💬 [QuickAssist](https://github.com/shaniKupiec/QuickAssist/tree/main)  
+Intent-aware **AI chatbot** that improves customer support responses using NLP models like **T5** and **BERT**.  
+**Tech:** Python, PyTorch, FastAPI, GROQ API, NLP, BLEU/ROUGE/BERTScore Evaluation
 
-## Connect with me
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shani.kupiec@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-kupiec-28a064228/)
+---
+
+## 🧠 Tech Stack
+
+**Frontend:**  
+React · Redux · TypeScript · JavaScript · HTML · CSS · Sass · MUI · Styled Components · Figma · Electron  
+
+**Backend:**  
+Node.js · Express.js · ASP.NET Core · FastAPI · MongoDB · PostgreSQL · MySQL · REST APIs  
+
+**Tools & Cloud:**  
+Git · Docker · AWS · Groq API
+
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:shani.kupiec@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shani-kupiec-28a064228/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
+
+---
+
+> 💡 “Code. Learn. Build. Repeat.” — I believe in lifelong learning and building things that make people’s lives easier (or at least more fun).
