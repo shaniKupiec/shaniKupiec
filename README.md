@@ -24,7 +24,7 @@
 ### 🎯 [LiveSentiment](https://github.com/shaniKupiec/LiveSentiment)  
 Real-time interactive presentation platform with **AI-powered audience analysis** and live sentiment tracking.  
 **Tech:** React 19, TypeScript, ASP.NET Core 8.0, SignalR, PostgreSQL, MUI, Chart.js, Docker  
-🎥 [Demo Video](https://www.youtube.com/watch?v=PnK20U6BIs4) · 🌐 [Try it live](https://livesentiment-frontend.onrender.com/)
+🎥 [Demo Video](https://www.youtube.com/watch?v=PnK20U6BIs4)
 
 ---
 
