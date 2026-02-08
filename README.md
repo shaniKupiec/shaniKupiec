@@ -4,6 +4,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Shani</h1>
 <h3 align="center">Full-Stack / Frontend Web Developer</h3>
+<p align="center">
+  <b>Turning “it’s impossible” into a Pull Request</b>
+</p>
 
 ---
 
@@ -25,16 +28,16 @@ Real-time interactive presentation platform with **AI-powered audience analysis*
 
 ---
 
+### 💬 [QuickAssist](https://github.com/shaniKupiec/QuickAssist/tree/main)  
+Intent-aware **AI chatbot** that improves customer support responses using NLP models like **T5** and **BERT**.  
+**Tech:** Python, PyTorch, FastAPI, GROQ API, NLP, BLEU/ROUGE/BERTScore Evaluation
+
+---
+
 ### 🍹 [Drink Recipe Generator](https://github.com/shaniKupiec/its_five_pm_somewhere)  
 Fun, responsive app that generates creative drink recipes using **AI** — cocktails, mocktails, and smoothies included.  
 **Tech:** React, TypeScript, FastAPI, Groq LLM, MUI, Styled Components, Docker  
 🎥 [Demo Video](https://www.youtube.com/watch?v=lMML5YUiLf4)
-
----
-
-### 💬 [QuickAssist](https://github.com/shaniKupiec/QuickAssist/tree/main)  
-Intent-aware **AI chatbot** that improves customer support responses using NLP models like **T5** and **BERT**.  
-**Tech:** Python, PyTorch, FastAPI, GROQ API, NLP, BLEU/ROUGE/BERTScore Evaluation
 
 ---
 
@@ -63,8 +66,3 @@ Git · Docker · AWS · Groq API
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
-
-
----
-
-> 💡 “Code. Learn. Build. Repeat.” — I believe in lifelong learning and building things that make people’s lives easier (or at least more fun).
