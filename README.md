@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Shani</h1>
-<h3 align="center">Full-Stack / Frontend Web Developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 <p align="center">
   <b>Turning “it’s impossible” into a Pull Request</b>
 </p>
